@@ -1,1 +1,1 @@
-# Gesti-n-Bd
+Aquí subiré todos los ejercicios relacionados con bd.
